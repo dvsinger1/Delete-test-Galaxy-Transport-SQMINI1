@@ -1,13 +1,11 @@
-entrypoint = "main.py"
-
-modules = ["python-3.10:v11-20230711-eb29cca"]
+modules = ["python-3.10", "nix"]
 
 audio = true
 
 hidden = [".pythonlibs"]
 
 [nix]
-channel = "stable-23_05"
+channel = "stable-24_05"
 
 [[ports]]
 localPort = 5900

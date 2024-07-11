@@ -1,4 +1,3 @@
-
 # change the speed of the ufo
 ufo_speed = 10
 
@@ -17,3 +16,4 @@ success_text = 'Galaxy reached'
 
 # copy the file path green_ufo.png to change the ufo image!
 ufo_image = 'assets/images/eye_ufo.png'
+
